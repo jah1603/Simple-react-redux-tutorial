@@ -29,4 +29,4 @@ function todos(state = [], action) {
 
 
 
-export default todo;
+export default todos;
